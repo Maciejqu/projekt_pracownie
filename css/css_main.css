@@ -1,0 +1,56 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+ 
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+  }
+  
+ 
+  th {
+    background-color: #333;
+    color: #fff;
+    padding: 12px;
+    text-align: left;
+  }
+  
+ 
+  td {
+    border-bottom: 1px solid #ddd;
+    padding: 12px;
+  }
+  
+  /* Style the "Add to Cart" buttons */
+  td button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Style the "View Cart" link */
+  a {
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+    color: #333;
+    text-decoration: none;
+  }
+

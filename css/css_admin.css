@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F1E7D7;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #784421;
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 50px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #784421;
+  }
+  
+  th {
+    background-color: #D7A978;
+    color: #fff;
+  }
+  
+  a {
+    color: #784421;
+    text-decoration: none;
+  }
